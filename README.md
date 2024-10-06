@@ -10,6 +10,7 @@ I’m Fabio Diez, a student at CodeCrypto Academy. My focus is on building real-
 
 ###### Web 2.5
 - **[Faucet]**
+FAucet - private Ethereum Blockchain - Docker - React - NodeJs webserver
   [https://github.com/codecrypto-academy/codecrypto-student/tree/web2.5-faucet-2024](https://github.com/FabioDiez-Blockchain/codecrypto-student/tree/web2.5-faucet-2024)
 
 
