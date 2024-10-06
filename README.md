@@ -18,7 +18,7 @@ I’m Fabio Diez, a student at CodeCrypto Academy. My focus is on building real-
   [https://github.com/codecrypto-academy/codecrypto-student/tree/web2.5-cesta](https://github.com/FabioDiez-Blockchain/codecrypto-student/tree/web2.5-cesta)
 
 - **[Ethereum]**
-  ##### Ethereum private blockchain - POA - API web3 - Metamask
+  ##### Private Ethereum blockchain - POA - API web3 - Metamask
   [https://github.com/codecrypto-academy/codecrypto-student/tree/web2.5-ethereum](https://github.com/FabioDiez-Blockchain/codecrypto-student/tree/web2.5-ethereum)
 
 
